@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8HOLnBDc4pFKVfliMEDZpnOEotQxAZgUstBrWYKVpiIwgOEM6Q3F0h+1C+qc7CgLqOz2ATmnBWGtpTEBxc7/HA==",
+  "dgSpecHash": "W7gXfXaV6vEusdQ/9qX0pa0rq/mjDHFtG3rnxhWd5bQvfQ3AB0JMw0QDS6CIVC8SW3YVNPqnj7vSor+XDr0+vQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\renat\\source\\repos\\Controle-Cursos1\\Controle-Cursos1\\Controle-Cursos1.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",

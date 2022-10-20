@@ -306,7 +306,6 @@ C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\bin\Debug\netcorea
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Controle-Cursos1.csproj.AssemblyReference.cache
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Controle-Cursos1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Controle-Cursos1.AssemblyInfoInputs.cache
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Controle-Cursos1.AssemblyInfo.cs
@@ -441,3 +440,4 @@ C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcorea
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Login.cshtml.g.cs
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\AccessDenied.cshtml.g.cs
+C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Debug\netcoreapp3.1\Controle-Cursos1.csproj.AssemblyReference.cache
