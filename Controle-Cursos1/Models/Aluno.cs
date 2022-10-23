@@ -15,7 +15,7 @@ namespace Controle_Cursos1.Models
 
         [Display(Name = "Tipo de Aluno")]
         [Required(ErrorMessage ="Obrigatório informar o tipo!")]
-        public TipoStatus Tipo { get; set; }
+        public Tipo Tipo { get; set; }
 
         [Display(Name = "Curso")]
         [Required(ErrorMessage = "Obrigatório informar o curso!")]
@@ -24,7 +24,7 @@ namespace Controle_Cursos1.Models
         public Curso Curso { get; set; }
     }
 
-    public enum TipoStatus
+    public enum Tipo
     {
         Comissionado,
         Efetivo
