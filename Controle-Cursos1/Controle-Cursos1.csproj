@@ -6,7 +6,14 @@
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
     <UserSecretsId>2fc8aef8-191a-4309-a9f7-72682dafbeed</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="server.js" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />

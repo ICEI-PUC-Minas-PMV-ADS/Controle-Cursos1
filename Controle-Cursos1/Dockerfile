@@ -14,7 +14,7 @@ FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
 COPY ["./Controle-Cursos1.csproj", "Controle-Cursos1/"]
 RUN dotnet restore "Controle-Cursos1/Controle-Cursos1.csproj"
-COPY . .
+COPY . ./
 WORKDIR "/src/Controle-Cursos1"
 RUN dotnet build "Controle-Cursos1.csproj" -c Release -o /app/build
 
@@ -26,4 +26,6 @@ RUN dotnet publish "Controle-Cursos1.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Controle-Cursos1.dll"]
+#COPY --from=build-env /app/out .
+#ENTRYPOINT ["dotnet", "Controle-Cursos1.dll"]
+CMD ASPNETCORE_URLS="http://*:$PORT" dotnet Controle-Cursos1.dll

@@ -405,8 +405,6 @@ C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcor
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.RazorAssemblyInfo.cache
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.RazorAssemblyInfo.cs
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\staticwebassets\Controle-Cursos1.StaticWebAssets.Manifest.cache
-C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\staticwebassets\Controle-Cursos1.StaticWebAssets.xml
-C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\scopedcss\bundle\Controle-Cursos1.styles.css
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.TagHelpers.input.cache
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.TagHelpers.output.cache
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.RazorCoreGenerate.cache
@@ -441,3 +439,4 @@ C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcor
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.dll
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.pdb
 C:\Users\renat\source\repos\Controle-Cursos1\Controle-Cursos1\obj\Release\netcoreapp3.1\Controle-Cursos1.genruntimeconfig.cache
+C:\Users\renat\source\repos\Controle-Cursos1\controle-cursos1\bin\Release\netcoreapp3.1\Controle-Cursos1.StaticWebAssets.xml
