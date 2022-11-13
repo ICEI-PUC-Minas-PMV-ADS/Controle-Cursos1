@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7gXfXaV6vEusdQ/9qX0pa0rq/mjDHFtG3rnxhWd5bQvfQ3AB0JMw0QDS6CIVC8SW3YVNPqnj7vSor+XDr0+vQ==",
+  "dgSpecHash": "sk6RtAqp4TK/yAvnk9yyD9/DNZpAuqNzr37nySYv/inSWTWw8hI86kPyoIG3W7AvP2OD0lN0tadqVITYz8g/Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renat\\source\\repos\\Controle-Cursos1\\Controle-Cursos1\\Controle-Cursos1.csproj",
+  "projectFilePath": "C:\\Users\\renat\\source\\repos\\Controle-Cursos1\\ICEI-PUC-Minas-PMV-ADS\\Controle-Cursos1\\Controle-Cursos1\\Controle-Cursos1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renat\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

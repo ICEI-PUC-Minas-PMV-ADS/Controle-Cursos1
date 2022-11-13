@@ -10,7 +10,19 @@
     <OutputType>Exe</OutputType>
     <StartupObject />
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\NovaPasta1\**" />
+    <Compile Remove="Models\NovaPasta2\**" />
+    <Content Remove="Models\NovaPasta1\**" />
+    <Content Remove="Models\NovaPasta2\**" />
+    <EmbeddedResource Remove="Models\NovaPasta1\**" />
+    <EmbeddedResource Remove="Models\NovaPasta2\**" />
+    <None Remove="Models\NovaPasta1\**" />
+    <None Remove="Models\NovaPasta2\**" />
+  </ItemGroup>
 
   <ItemGroup>
     <None Remove="server.js" />

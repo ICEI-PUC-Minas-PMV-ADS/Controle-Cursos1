@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Controle_Cursos1.Models.NovaPasta;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -13,9 +14,14 @@ namespace Controle_Cursos1.Models
         [Key]
         public int Id { get; set; }
 
+        //public string Nome { get; set; }
+        //public string Cpf { get; set; }
+        //public DateTime DataNascimento { get; set; }
+        //public ESexo Sexo { get; set; }
+
         [Display(Name = "Tipo de Aluno")]
         [Required(ErrorMessage ="Obrigatório informar o tipo!")]
-        public Tipo Tipo { get; set; }
+        public string Tipo { get; set; }
 
         [Display(Name = "Curso")]
         [Required(ErrorMessage = "Obrigatório informar o curso!")]
@@ -24,10 +30,10 @@ namespace Controle_Cursos1.Models
         public Curso Curso { get; set; }
     }
 
-    public enum Tipo
+    /*public enum Tipo
     {
         Comissionado,
         Efetivo
-    }
+    }*/
 
 }

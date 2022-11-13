@@ -34,4 +34,11 @@ namespace Controle_Cursos1.Models
 
         public ICollection<Aluno> Alunos { get; set; }
     }
+
+    public enum Modalidade
+    {
+        Síncrono,
+        Presencial,
+        Mista
+    }
 }
