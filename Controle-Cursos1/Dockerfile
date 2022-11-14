@@ -31,5 +31,5 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 #COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", "Controle-Cursos1.dll"]
-#CMD ASPNETCORE_URLS="http://*:$PORT" dotnet Controle-Cursos1.dll
+#ENTRYPOINT ["dotnet", "Controle-Cursos1.dll"]
+CMD ASPNETCORE_URLS="http://*:$PORT" dotnet Controle-Cursos1.dll
